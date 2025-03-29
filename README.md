@@ -53,6 +53,8 @@ This file defines the **Game** class, which manages game mechanics.
 
 ## 🖥 Preview
 ![Starting Screen Screenshot](https://dl.dropboxusercontent.com/scl/fi/v99tk9ghoh6ooyefutf3k/Screenshot-2025-03-29-014537.png)
+![Screenshot](https://dl.dropboxusercontent.com/scl/fi/v99tk9ghoh6ooyefutf3k/Screenshot-2025-03-29-014537.png)
+
 ![Starting Screen Screenshot](assets/game_preview.png)
 ![Starting Screen Screenshot](assets/game_preview.png)
 
